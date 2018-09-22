@@ -13,14 +13,14 @@
 
 @media(min-width: 400px)  {
     .Burger {
-        width: 400px;
-        height: 455px;
+        width: 380px;
+        height: 450px;
     }
 }
 
 @media(min-width: 750px) {
     .Burger {
-        width: 600px;
-        height: 627px;
+        width: 500px;
+        height: 500px;
     }
 }
