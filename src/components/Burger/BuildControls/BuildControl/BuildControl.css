@@ -11,15 +11,15 @@
     padding: 5px;
     margin: 0 5px;
     width: 80px;
-    border: 1px solid #AA6817;
+    border: 1px solid rgb(236, 166, 80);
     cursor: pointer;
     outline: none;
 }
 
 .BuildControl button:disabled {
-    background-color: #AC9980;
+    background-color: rgb(201, 201, 201);
     border: 1px solid #7E7365;
-    color: #ccc;
+    color: rgb(122, 121, 121);
     cursor: default;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .BuildControl .More {
-    background-color: #8F5E1E;
+    background-color: rgb(235, 160, 63);
     color: white;
 }
 
@@ -51,6 +51,6 @@
 }
 
 .BuildControl .More:hover,.BuildControl .More:active {
-    background-color: #99703F;
+    background-color: #DAA972;
     color: white;
 }
