@@ -10,7 +10,6 @@ import classes from './Auth.css';
 import { updateObject, checkValidity } from '../../shared/utility';
 
  class Auth extends Component {
-
     state = {
         controls: {
             email: {
